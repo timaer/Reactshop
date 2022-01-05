@@ -1,0 +1,22 @@
+#order{background-color:#F6F6F6;min-height: 100vh;padding-top:60px;padding-bottom: 85px;}
+.address_title{flex:4;text-align: left;}
+.address_value{flex:1;}
+.address_title_short{flex:2;text-align: left;}
+.address_value_long{flex:4;}
+.address_empty{display: flex;align-items: center;}
+.address_add{padding-left:0.2rem;}
+.address_con{margin-left:0.1rem;}
+#order .title{color:#cccccc;text-align: left;}
+.goodsitem{display: flex;flex-direction: column;}
+.goodsimg{width:2rem;height:2rem;}
+.goodsimg img{width:100%;}
+.info{flex:4;padding-left:0.2rem;}
+.cellitem{display: flex;flex-direction: row;margin-top: 0.15rem;}
+.line{display: flex;flex-direction: row;}
+.price{margin-left:auto;font-size:0.35rem;}
+.dashprice{margin-left:auto;color:#cccccc;text-decoration: line-through;font-size:0.3rem;}
+.cellright{margin-left:auto;color:#969799}
+.subprice{color:#bbbbbb;font-size:0.3rem;}
+.goodstitle{font-size:0.35rem;font-weight: 600;}
+.order_addrinfo{text-align: left;}
+.order_addrinfo_tip{padding: 0.1rem;}

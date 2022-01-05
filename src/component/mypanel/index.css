@@ -1,0 +1,7 @@
+.mypanel-container{padding: 0.3rem;background-color:#ffffff;border-radius:0.2rem;margin-top:0.2rem;}
+.mypanel-title{font-size:0.40rem;font-weight: 600;text-align: left;padding: 0 0.15rem 0.1rem;}
+.mypanel-items{display: flex;flex-direction: row;align-content: center;justify-content: space-around;  flex-wrap: wrap;}
+.panelitem-container{display: flex;flex-direction: column;flex: 1 0 21%;text-align: center;}
+.panelitem-container a{color:#333333;}
+.panelitem-title{font-size:0.35rem;}
+.panelIcon{width:0.6rem;height:0.6rem;}

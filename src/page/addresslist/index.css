@@ -1,0 +1,8 @@
+#addresslist{background-color:#F6F6F6;min-height: 100vh;padding-top:60px;}
+.address_item{display: flex;align-items: center;}
+.address_item_checkbox{padding-right: 0.2rem;}
+.address_item_detail{display: flex;flex-direction: column;}
+.address_item_detail span{padding: 0.1rem;}
+.address_item_edit{margin-left: auto;}
+.addresslist_addbtn_container{position: fixed;bottom:0;left:0;width:100%;height:50px;background-color: #ffffff;display: flex;justify-content: center;align-items: center;}
+.addresslist_addbtn{width:95%;}

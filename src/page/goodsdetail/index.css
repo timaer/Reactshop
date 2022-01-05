@@ -1,0 +1,18 @@
+#goodsdetail{background-color:#F6F6F6;min-height: 100vh;}
+.my-swipe .van-swipe-item {color: #fff;max-height: 6rem;text-align: center;}
+.goodspanel{text-align: left;padding: 0.2rem;background-color: #ffffff;border-radius: 0.2rem;margin: 0.15rem;}
+#goodsdetail .title{text-align: left;font-size: 0.5rem;font-weight: 600;padding: 0.2rem;}
+#goodsdetail .subtitle{text-align: left;color:#bbbbbb;padding: 0 0.2rem;}
+.priceline{display: flex;align-items: center;padding: 0.2rem;font-size: 0.2rem;}
+.label{flex:1;align-self: flex-start;color:#cccccc;}
+.description{flex:4;}
+.mainprice{font-size:0.6rem;color:#CB0930;}
+.dashprice{font-size: 0.3rem;text-decoration: line-through;color:#cccccc;padding: 0.2rem;}
+.btncart{margin-left:auto;}
+.goodspromotion{display: flex;flex-wrap: wrap;padding-bottom: 85px;}
+.goodsclass-from{padding-left:0.2rem;font-size:0.3rem;color:#cccccc;}
+.goodsclass-clear{float:right;}
+
+#goodsdetail .shopshowitem-container{flex:1 0 45%;}
+#goodsdetail .shopshow-items{overflow: hidden;flex-wrap: wrap;}
+#goodsdetail .shopshowImg{width:100%;height:100%;}

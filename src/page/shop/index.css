@@ -1,0 +1,23 @@
+.my-swipe .van-swipe-item {color: #fff;line-height: 3.5rem;text-align: center;background-color: #39a9ed;}
+.my-swipe .van-swipe-item img{max-height: 3.5rem;}
+.shop_content{margin-top: 1.8rem;}
+.shop_goodslist{margin-left: 80px;}
+.shop_goods_container{display: flex;padding-bottom: 85px;}
+.shop_goods_nav{flex:1;background-color: #ffffff;}
+.shop_goods_list{flex:4;background-color: #ffffff;}
+.shop_info{background-color:#ffffff;padding: 0.2rem;border-bottom-left-radius:0.2rem;border-bottom-right-radius:0.2rem;margin-left:0.2rem;margin-right: 0.2rem;text-align: left;}
+.shop_info_item{padding: 0.2rem;}
+.shop_info_title{font-size: 0.4rem;font-weight: 600;}
+.shop_info_desc{display:flex;font-size:0.3rem;color:#bbb;align-items: center;padding: 0.1rem;}
+.goodsclass-from{padding-left:0.2rem;font-size:0.3rem;color:#cccccc;}
+.goodsclass-clear{float:right;}
+.slideimg_style{max-height: 3.7rem;}
+.my-swipe .rv-swiper-item {
+    color: #fff;
+    font-size: 20px;
+    line-height: 150px;
+    text-align: center;
+    background: #3f45ff;
+  }
+#shop{background-color:#F6F6F6;min-height: 100vh;}
+

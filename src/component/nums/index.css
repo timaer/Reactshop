@@ -1,0 +1,5 @@
+.price-container{display: flex;align-items: center;position: relative;justify-content: center;}
+.price-btn{font-size:0.5rem;min-width: 12px;min-height: 12px;width:0.5rem;height:0.5rem;border-radius: 50%;background-color: #BC010B;color:#ffffff;position: relative;display: flex;align-items: center;justify-content: center;}
+.price-badge{position: absolute;top:-0.25rem;right:-0.25rem;}
+.price-input{display: flex;align-items: center;text-align: center;}
+.price-input input{min-width:12px;outline: none;width:0.5rem;border: none;text-align: center;font-size:0.4rem;}

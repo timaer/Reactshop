@@ -1,0 +1,14 @@
+body {
+  margin: 0;
+  text-rendering: optimizeLegibility;
+  font-family: Helvetica Neue,Helvetica,PingFang SC,Hiragino Sans GB,Microsoft YaHei,Arial,sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color:#F6F6F6;
+}
+.hide{display: none!important;}
+.show{display: flex!important;}
+.maincontent{padding-bottom: 50px;min-height: calc( 100vh - 50px );font-size:0.15rem;background-color: #f6f6f6;padding: 0.3rem;padding-bottom: 60px;}
+.awaytop{margin-top:40px;}
+.navleft{position: fixed;z-index: 999;left:0.35rem;top:0.5rem;width:0.5rem;height:0.5rem;}
+.mtsmall{margin-top:0.2rem;}
