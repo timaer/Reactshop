@@ -2,9 +2,9 @@
 
 安装使用
 
-npm i @timaer/react-admin
+npm i @timaer/react-shop
 或
-yarn add @timaer/react-admin
+yarn add @timaer/react-shop
 
 React版
 
