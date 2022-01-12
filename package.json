@@ -1,8 +1,8 @@
 {
-  "homepage":".",
-  "name": "reactshop",
-  "version": "0.1.0",
-  "private": true,
+  "homepage": ".",
+  "name": "@timaer/react-shop",
+  "version": "1.0.0",
+  "private": false,
   "dependencies": {
     "@babel/core": "7.12.3",
     "@pmmmwh/react-refresh-webpack-plugin": "0.4.3",
@@ -161,5 +161,10 @@
     "presets": [
       "react-app"
     ]
-  }
+  },
+  "description": "A shop mall based on vant react",
+  "main": "index.js",
+  "repository": "https://github.com/timaer/Reactshop.git",
+  "author": "Xu Qin <xuqin226@qq.com>",
+  "license": "MIT"
 }
